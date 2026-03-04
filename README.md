@@ -8,9 +8,6 @@ DOCTYPE html>
 <body>
     <img src="https://edube.org/uploads/media/default/0001/04/logo.jpg" alt="" aria-hidden="true" width="100%">
     <header>
-        <div>
-            <img src="https://edube.org/uploads/media/default/0001/04/community-center.jpg" alt="Harbor Light Community Center Logo" width="150">
-        </div>
         <h1>Welcome to Harbor Light Community Center</h1>
         <p>Bringing our community together.</p>
     </header>
@@ -25,7 +22,7 @@ DOCTYPE html>
     <main>
        <section id="about">
             <h2>About Us</h2>
-            <img src"https://edube.org/uploads/media/default/0001/04/community-center.jpg" alt="Harbor Light Community Center People" width="300">
+            <img src="https://edube.org/uploads/media/default/0001/04/community-center.jpg" alt="Harbor Light Community Center Logo" width="150">
             <p>
                 Harbor Light Community Center is a place where people of all ages can learn,
                 grow, and connect with others in the community.
